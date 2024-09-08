@@ -1,0 +1,378 @@
+    {
+      "question": "What is the capital of India?",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": 1
+    },
+    {
+      "question": "Who is the current Chief Minister of Telangana?",
+      "option1": "K. Chandrashekar Rao",
+      "option2": "Y. S. Jagan Mohan Reddy",
+      "option3": "N. Chandrababu Naidu",
+      "option4": "Revant Reddy",
+      "answer": 1
+    },
+    {
+      "question": "Which river flows through Andhra Pradesh?",
+      "option1": "Ganga",
+      "option2": "Yamuna",
+      "option3": "Krishna",
+      "option4": "Narmada",
+      "answer": 3
+    },
+    {
+      "question": "Who won the ICC Cricket World Cup in 2011?",
+      "option1": "Australia",
+      "option2": "India",
+      "option3": "England",
+      "option4": "South Africa",
+      "answer": 2
+    },
+    {
+      "question": "What is the official language of Andhra Pradesh?",
+      "option1": "Hindi",
+      "option2": "Telugu",
+      "option3": "Tamil",
+      "option4": "Kannada",
+      "answer": 2
+    },
+    {
+      "question": "Which city is known as the 'Silicon Valley of India'?",
+      "option1": "Hyderabad",
+      "option2": "Chennai",
+      "option3": "Bengaluru",
+      "option4": "Pune",
+      "answer": 3
+    },
+    {
+      "question": "Who is known as the 'God of Cricket'?",
+      "option1": "Virat Kohli",
+      "option2": "Sachin Tendulkar",
+      "option3": "MS Dhoni",
+      "option4": "Ricky Ponting",
+      "answer": 2
+    },
+    {
+      "question": "Which state is famous for the Charminar?",
+      "option1": "Maharashtra",
+      "option2": "Karnataka",
+      "option3": "Telangana",
+      "option4": "Tamil Nadu",
+      "answer": 3
+    },
+    {
+      "question": "Which Indian state is known for its backwaters?",
+      "option1": "Kerala",
+      "option2": "Goa",
+      "option3": "Tamil Nadu",
+      "option4": "West Bengal",
+      "answer": 1
+    },
+    {
+      "question": "Which festival is known as the 'Festival of Lights' in India?",
+      "option1": "Holi",
+      "option2": "Diwali",
+      "option3": "Eid",
+      "option4": "Christmas",
+      "answer": 2
+    },
+    {
+      "question": "Which Indian state is known for its tea gardens?",
+      "option1": "Assam",
+      "option2": "Punjab",
+      "option3": "Gujarat",
+      "option4": "Rajasthan",
+      "answer": 1
+    },
+    {
+      "question": "Who is the current President of India?",
+      "option1": "Ram Nath Kovind",
+      "option2": "Pranab Mukherjee",
+      "option3": "Droupadi Murmu",
+      "option4": "A. P. J. Abdul Kalam",
+      "answer": 3
+    },
+    {
+      "question": "Which Indian cricketer is known as 'Captain Cool'?",
+      "option1": "Virat Kohli",
+      "option2": "Rohit Sharma",
+      "option3": "MS Dhoni",
+      "option4": "Sourav Ganguly",
+      "answer": 3
+    },
+    {
+      "question": "Which city is the capital of Andhra Pradesh?",
+      "option1": "Hyderabad",
+      "option2": "Vijayawada",
+      "option3": "Visakhapatnam",
+      "option4": "Amaravati",
+      "answer": 4
+    },
+    {
+      "question": "Which Indian state is known for its classical dance form 'Bharatanatyam'?",
+      "option1": "Kerala",
+      "option2": "Tamil Nadu",
+      "option3": "Odisha",
+      "option4": "Karnataka",
+      "answer": 2
+    },
+    {
+      "question": "Who is the current Chief Minister of Andhra Pradesh?",
+      "option1": "K. Chandrashekar Rao",
+      "option2": "Y. S. Jagan Mohan Reddy",
+      "option3": "N. Chandrababu Naidu",
+      "option4": "Revant Reddy",
+      "answer": 3
+    },
+    {
+      "question": "Which Indian state is known for its 'Sundarbans' mangrove forest?",
+      "option1": "West Bengal",
+      "option2": "Odisha",
+      "option3": "Assam",
+      "option4": "Bihar",
+      "answer": 1
+    },
+    {
+      "question": "Which Indian cricketer is known as the 'Wall'?",
+      "option1": "Sachin Tendulkar",
+      "option2": "Rahul Dravid",
+      "option3": "Sourav Ganguly",
+      "option4": "Virender Sehwag",
+      "answer": 2
+    },
+    {
+      "question": "Which city is known as the 'City of Pearls'?",
+      "option1": "Mumbai",
+      "option2": "Hyderabad",
+      "option3": "Chennai",
+      "option4": "Kolkata",
+      "answer": 2
+    },
+    {
+      "question": "Which Indian state is known for its 'Garba' dance?",
+      "option1": "Punjab",
+      "option2": "Gujarat",
+      "option3": "Maharashtra",
+      "option4": "Rajasthan",
+      "answer": 2
+    },
+    {
+      "question": "Who is the current Vice President of India?",
+      "option1": "Venkaiah Naidu",
+      "option2": "Hamid Ansari",
+      "option3": "Jagdeep Dhankhar",
+      "option4": "Pratibha Patil",
+      "answer": 3
+    },
+    {
+      "question": "Which Indian cricketer is known as the 'Hitman'?",
+      "option1": "Virat Kohli",
+      "option2": "Rohit Sharma",
+      "option3": "Shikhar Dhawan",
+      "option4": "KL Rahul",
+      "answer": 2
+    },
+    {
+      "question": "Which city is the capital of Telangana?",
+      "option1": "Hyderabad",
+      "option2": "Warangal",
+      "option3": "Nizamabad",
+      "option4": "Karimnagar",
+      "answer": 1
+    },
+    {
+      "question": "Which Indian state is known for its 'Kathakali' dance?",
+      "option1": "Kerala",
+      "option2": "Tamil Nadu",
+      "option3": "Odisha",
+      "option4": "Karnataka",
+      "answer": 1
+    },
+    {
+      "question": "Who is the current Governor of Telangana?",
+      "option1": "Tamilisai Soundararajan",
+      "option2": "E. S. L. Narasimhan",
+      "option3": "Jishnu Dev Varma",
+      "option4": "K. Chandrashekar Rao",
+      "answer": 3
+    },
+    {
+      "question": "Which Indian state is known for its 'Bihu' festival?",
+      "option1": "Assam",
+      "option2": "Punjab",
+      "option3": "Gujarat",
+      "option4": "Rajasthan",
+      "answer": 1
+    },
+    {
+      "question": "Who is the current Governor of Andhra Pradesh?",
+      "option1": "Biswabhusan Harichandan",
+      "option2": "E. S. L. Narasimhan",
+      "option3": "N. Chandrababu Naidu",
+      "option4": "S. Abdul Nazeer",
+      "answer": 4
+    },
+    {
+      "question": "Which Indian cricketer is known as the 'Little Master'?",
+      "option1": "Virat Kohli",
+      "option2": "Sachin Tendulkar",
+      "option3": "Sunil Gavaskar",
+      "option4": "Rahul Dravid",
+      "answer": 3
+    },
+    {
+      "question": "Which city is known as the 'Pink City'?",
+      "option1": "Jaipur",
+      "option2": "Udaipur",
+      "option3": "Jodhpur",
+      "option4": "Bikaner",
+      "answer": 1
+    },
+    {
+      "question": "Which Indian state is known for its 'Chhau' dance?",
+      "option1": "West Bengal",
+      "option2": "Odisha",
+      "option3": "Assam",
+      "option4": "Bihar",
+      "answer": 2
+    },
+    {
+      "question": "Who is the current Chief Justice of India?",
+      "option1": "N. V. Ramana",
+      "option2": "Ranjan Gogoi",
+      "option3": "D. Y. Chandrachud",
+      "option4": "Sharad Arvind Bobde",
+      "answer": 3
+    },
+    {
+      "question": "Which Indian cricketer is known as the 'Nawab of Najafgarh'?",
+      "option1": "Virat Kohli",
+      "option2": "Sachin Tendulkar",
+      "option3": "Sourav Ganguly",
+      "option4": "Virender Sehwag",
+      "answer": 4
+    },
+    {
+      "question": "Which city is known as the 'City of Joy'?",
+      "option1": "Mumbai",
+      "option2": "Hyderabad",
+      "option3": "Chennai",
+      "option4": "Kolkata",
+      "answer": 4
+    },
+    {
+      "question": "Which Indian state is known for its 'Ghoomar' dance?",
+      "option1": "Punjab",
+      "option2": "Gujarat",
+      "option3": "Maharashtra",
+      "option4": "Rajasthan",
+      "answer": 4
+    },
+    {
+      "question": "Which Indian state is known for its 'Lavani' dance?",
+      "option1": "Maharashtra",
+      "option2": "Gujarat",
+      "option3": "Punjab",
+      "option4": "Rajasthan",
+      "answer": 1
+    },
+    {
+      "question": "Who is the current Prime Minister of India?",
+      "option1": "Narendra Modi",
+      "option2": "Manmohan Singh",
+      "option3": "Rahul Gandhi",
+      "option4": "Amit Shah",
+      "answer": 1
+    },
+    {
+      "question": "Which Indian state is known for its 'Bhangra' dance?",
+      "option1": "Punjab",
+      "option2": "Haryana",
+      "option3": "Uttar Pradesh",
+      "option4": "Madhya Pradesh",
+      "answer": 1
+    },
+    {
+      "question": "Which city is known as the 'Financial Capital of India'?",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Bengaluru",
+      "option4": "Chennai",
+      "answer": 2
+    },
+    {
+      "question": "Which Indian state is known for its 'Kuchipudi' dance?",
+      "option1": "Andhra Pradesh",
+      "option2": "Telangana",
+      "option3": "Tamil Nadu",
+      "option4": "Kerala",
+      "answer": 1
+    },
+    {
+      "question": "Who is the current Chief Minister of Maharashtra?",
+      "option1": "Uddhav Thackeray",
+      "option2": "Devendra Fadnavis",
+      "option3": "Eknath Shinde",
+      "option4": "Ajit Pawar",
+      "answer": 3
+    },
+    {
+      "question": "Which Indian state is known for its 'Manipuri' dance?",
+      "option1": "Manipur",
+      "option2": "Assam",
+      "option3": "Tripura",
+      "option4": "Meghalaya",
+      "answer": 1
+    },
+    {
+      "question": "Which city is known as the 'City of Lakes'?",
+      "option1": "Udaipur",
+      "option2": "Jaipur",
+      "option3": "Bhopal",
+      "option4": "Nainital",
+      "answer": 1
+    },
+    {
+      "question": "Which Indian state is known for its 'Mohiniyattam' dance?",
+      "option1": "Kerala",
+      "option2": "Tamil Nadu",
+      "option3": "Karnataka",
+      "option4": "Andhra Pradesh",
+      "answer": 1
+    },
+    {
+      "question": "Who is the current Chief Minister of West Bengal?",
+      "option1": "Mamata Banerjee",
+      "option2": "Buddhadeb Bhattacharjee",
+      "option3": "Jyoti Basu",
+      "option4": "Siddhartha Shankar Ray",
+      "answer": 1
+    },
+    {
+      "question": "Which Indian state is known for its 'Yakshagana' dance?",
+      "option1": "Karnataka",
+      "option2": "Kerala",
+      "option3": "Tamil Nadu",
+      "option4": "Andhra Pradesh",
+      "answer": 1
+    },
+    {
+      "question": "Which city is known as the 'City of Nawabs'?",
+      "option1": "Lucknow",
+      "option2": "Hyderabad",
+      "option3": "Bhopal",
+      "option4": "Patna",
+      "answer": 1
+    },
+    {
+      "question": "Which Indian state is known for its 'Odissi' dance?",
+      "option1": "Odisha",
+      "option2": "West Bengal",
+      "option3": "Assam",
+      "option4": "Bihar",
+      "answer": 1
+    }
+
+
