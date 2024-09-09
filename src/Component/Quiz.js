@@ -71,7 +71,7 @@ function Quiz(Num) {
                         </div>
                     </div>
 
-                    : <div className='w-[40%] md:min-h-[60vh] sm:min-h-[80vh] lg:min-h-[40vh] p-8 bg-blue-400 rounded-md items-center flex flex-col gap-y-2' >
+                    : <div className='sm:w-95vw md:w-[40vw] lg:w-[60vw] p-8 bg-blue-400 rounded-md items-center flex flex-col gap-y-5' >
                         <h1 className='text-4xl'><b>Your Score :</b></h1>
                         <h1 className='text-3xl text-white'>{Score}</h1>
                         <Link to='/' className='my-2 px-4 border-2 border-black active:bg-green-600 rounded-md'>Play Again <FontAwesomeIcon className='ml-1' icon={faArrowRotateBack} /></Link>
