@@ -55,9 +55,9 @@ function Quiz(Num) {
             {
                 i < a.length ?
 
-                    <div className='sm:w-95vw md:w-[40vw] lg:w-[60vw] min-h-full p-8 bg-blue-400 rounded-md items-center flex flex-col gap-y-2 '>
+                    <div className='sm:w-95vw md:w-[40vw] lg:w-[60vw] min-h-full md:p-8 lg:p-8 sm:p-0 bg-blue-400 rounded-md items-center flex flex-col gap-y-2 '>
 
-                        <h1 className='text-2xl bg-orange-500 w-[90%] p-2 rounded-md'>{i + 1}. {question.question}</h1>
+                        <h1 className='text-2xl bg-orange-500 text-wrap p-2 rounded-md'>{i + 1}. {question.question}</h1>
                         <div className="container flex flex-col gap-3 justify-center items-center">
                             <button ref={Option1} onClick={(e) => { hh(e, 1) }} className='my-2 py-1 border-2 border-black w-[50%]  rounded-md' >{question.option1}</button>
                             <button ref={Option2} onClick={(e) => { hh(e, 2) }} className='my-2 py-1 border-2 border-black w-[50%]  rounded-md' >{question.option2}</button>
